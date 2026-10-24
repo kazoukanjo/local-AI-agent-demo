@@ -1,4 +1,4 @@
-# AI Agent của Khánh V4
+# AI Agent của Khánh
 
 Desktop AI Assistant chạy native trên Windows. Giao diện chính không mở trình duyệt.
 
